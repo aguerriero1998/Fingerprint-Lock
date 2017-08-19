@@ -1,4 +1,4 @@
-#Fingerprint Scanner Lock
+# Fingerprint Scanner Lock
 
 This is a Fingerprint scanner lock written in the Arduino IDE for the Arduino Uno.
 
