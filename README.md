@@ -14,3 +14,5 @@ Dependencies:
 * Matrix Keypad Library http://playground.arduino.cc/Code/Keypad
 
 AVR-C Dependencies:
+* AVR UART https://github.com/andygock/avr-uart
+* AVR Software-UART https://github.com/blalor/avr-softuart
